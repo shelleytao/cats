@@ -25,4 +25,4 @@ $ python3 gui.py
 ### 5. Class Project Site
 [here]
 
-[here]: <https://cs61a.org/proj/cats/>
+[here]: <https://inst.eecs.berkeley.edu/~cs61a/sp20/proj/cats/>
